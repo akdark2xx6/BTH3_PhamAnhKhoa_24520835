@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\bin\Debug\net10.0-windows\Bai09.exe
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\bin\Debug\net10.0-windows\Bai09.deps.json
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\bin\Debug\net10.0-windows\Bai09.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\bin\Debug\net10.0-windows\Bai09.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\bin\Debug\net10.0-windows\Bai09.pdb
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.Form1.resources
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\refint\Bai09.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.pdb
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\Bai09.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai09\obj\Debug\net10.0-windows\ref\Bai09.dll

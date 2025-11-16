@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\bin\Debug\net8.0-windows\Bai03.exe
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\bin\Debug\net8.0-windows\Bai03.deps.json
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\bin\Debug\net8.0-windows\Bai03.runtimeconfig.json
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\bin\Debug\net8.0-windows\Bai03.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\bin\Debug\net8.0-windows\Bai03.pdb
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.Form1.resources
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\refint\Bai03.dll
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.pdb
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\Bai03.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\BTH3_PhamAnhKhoa_24520835\Bai03\obj\Debug\net8.0-windows\ref\Bai03.dll
